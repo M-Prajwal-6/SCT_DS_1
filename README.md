@@ -8,8 +8,6 @@
   
   Task: Task 1
   
-  Duration: Completed in 10–11 days
-  
   Tool Used: Power BI
 
 📌 Task Overview
